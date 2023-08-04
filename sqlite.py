@@ -61,5 +61,6 @@ CREATE TABLE "metadata" (
 	PRIMARY KEY("fieldName")
 );""")
 
-cur.execute('INSERT INTO "metadata"("fieldName", "value") VALUES ("commithash",?)', os.environ["GITHUB_SHA"])
+commitHash = os.environ.get("GITHUB_SHA", "No hash")
+cur.execute('INSERT INTO "metadata"("fieldName", "value") VALUES ("commithash",?)', (commitHash,))
 con.commit()
