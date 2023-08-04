@@ -1,4 +1,5 @@
 import sqlite3, os, json
+
 con = sqlite3.connect("statsdefinitions.db")
 cur = con.cursor()
 try:
@@ -44,13 +45,14 @@ for fname in termFiles:
         term["identifier"], term["name"], term.get("alternateName", None),
         term["disambiguatingDescription"], term["description"]
     ))
-    if term.get("image", {"@type":None})["@type"] == "ImageObject":
+    if term.get("image", {"@type": None})["@type"] == "ImageObject":
         images.append((
             term["image"]["contentUrl"], term["image"]["accessibilitySummary"],
             term["image"]["caption"], term["image"]["name"], term["identifier"]
         ))
-cur.executemany('INSERT INTO "definitions"("Identifier","name","alternateName","disambiguatingDescription","description") '
-                'VALUES (?,?,?,?,?);', definitions)
+cur.executemany(
+    'INSERT INTO "definitions"("Identifier","name","alternateName","disambiguatingDescription","description") '
+    'VALUES (?,?,?,?,?);', definitions)
 cur.executemany('INSERT INTO "images"("id","contentUrl","accessibilitySummary","caption","name","definitionIdentifier")'
                 'VALUES (NULL,?,?,?,?,?);', images)
 con.commit()
