@@ -1,0 +1,15 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/_example.json",
+  "name": "Example Definition",
+  "disambiguatingDescription": "An example of a definition",
+  "description": "This is an example of a definition in the statsdefinitions repo. It can be used to create your own definitions.",
+  "image": {
+    "@type": "ImageObject",
+    "contentUrl": "https://placehold.co/600x400?text=If+you+wanted+to+add+an+image+you+can+use+this",
+    "accessibilitySummary": "This text is alt-text. The image says \"If you wanted to add an image you can use this\"",
+    "caption": "You can caption the image if you like.",
+    "name": "Title of Image"
+  }
+}
