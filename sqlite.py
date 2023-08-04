@@ -1,5 +1,5 @@
 import sqlite3, os, json
-con = sqlite3.connect("statsdefinitons.db")
+con = sqlite3.connect("statsdefinitions.db")
 cur = con.cursor()
 try:
     cur.execute("DROP TABLE definitions")

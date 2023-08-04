@@ -39,7 +39,7 @@ jobs:
         run: python sqlite.py
         shell: sh
       - name: Save commit hash
-        run: echo "$GITHUB_SHA" > versionhash.txt
+        run: echo "$GITHUB_SHA" > commithash.txt
         shell: sh
       - name: Setup Pages
         uses: actions/configure-pages@v3
