@@ -4,6 +4,7 @@ cur = con.cursor()
 try:
     cur.execute("DROP TABLE definitions")
     cur.execute(" DROP TABLE images");
+    cur.execute("DROP TABLE metadata");
 except sqlite3.OperationalError as e:
     print(e)
     print("Probably brand new db, ignoring")
@@ -51,4 +52,14 @@ cur.executemany('INSERT INTO "definitions"("Identifier","name","alternateName","
                 'VALUES (?,?,?,?,?);', definitions)
 cur.executemany('INSERT INTO "images"("id","contentUrl","accessibilitySummary","caption","name","definitionIdentifier")'
                 'VALUES (NULL,?,?,?,?,?);', images)
+con.commit()
+
+cur.execute("""
+CREATE TABLE "metadata" (
+	"fieldName"	TEXT NOT NULL,
+	"value"	TEXT NOT NULL,
+	PRIMARY KEY("fieldName")
+);""")
+
+cur.execute('INSERT INTO "metadata"("fieldName", "value") VALUES ("commithash",?)', os.environ["GITHUB_SHA"])
 con.commit()
