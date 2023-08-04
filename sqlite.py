@@ -35,6 +35,7 @@ definitions = []
 images = []
 
 for fname in termFiles:
+    if fname.startswith("_example"): continue
     with open(os.path.join(termsDir, fname), encoding="utf8") as f:
         termData = f.read()
 
