@@ -8,7 +8,7 @@
 |Explanatory variable, Linquistic variable| Brezina, 2018                           |
 |Statistics| Brezina, 2018; McEnery and Hardie, 2011 |
 |Variable| Brezina, 2018                           |
-
+|Nominal variable, Ordinal variables, Scale variables | Brezina, 2018 |
 
 # Bibliography
 

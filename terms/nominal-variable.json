@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/nominal-variable.json",
+  "name": "Nominal Variable",
+  "disambiguatingDescription": "Variable with groups, and no order.",
+  "description": "Variable whose value represent different categories in which the data can be grouped, without an order or hierarchy. For example, gender can be assigned one of a few groups, and there is no hierarchy within the groups. The groups are often assigned short-hand numbers just for convenience (e.g. 0 for male, 1 for female), but they confer no particular value (the numbers could be swapped, or changed entirely)."
+}
