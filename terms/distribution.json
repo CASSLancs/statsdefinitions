@@ -3,7 +3,6 @@
   "@type": "DefinedTerm",
   "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/distribution.json",
   "name": "Distribution",
-  "alternateName": "Analysis of Variance",
   "disambiguatingDescription": "An idealized frequency distribution.",
   "description": "A mathematical function to describe the shape of data. You can compare how closely a real-life frequency distribution compares to a probability distribution, and use that to describe the data."
 }

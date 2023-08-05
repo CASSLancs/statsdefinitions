@@ -40,7 +40,6 @@ for fname in termFiles:
     with open(os.path.join(termsDir, fname), encoding="utf8") as f:
         termData = f.read()
 
-    term = {}
     term = json.loads(termData)
     definitions.append((
         term["identifier"], term["name"], term.get("alternateName", None),
