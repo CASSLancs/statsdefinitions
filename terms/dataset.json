@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/dataset.json",
+  "name": "Dataset",
+  "disambiguatingDescription": "Systematic collection of individual results.",
+  "description": "A series of corpus-based findings that can be used for statistical analysis. It is a systematic collection of individual results - often a spreadsheet with data points in the rows and variables in the columns. You can study these for a \"shape\" that helps you identify statistical analyses that lend themselves to the particular data."
+}

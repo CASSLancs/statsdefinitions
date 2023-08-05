@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/linguistic-variable.json",
+  "name": "Linguistic variable",
+  "disambiguatingDescription": "Frequencies of linguistic features.",
+  "description": "Linguistic variables monitor frequencies of linguistic features of interest, for example the number of times they use the word \"develop\"."
+}

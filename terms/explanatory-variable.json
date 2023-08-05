@@ -1,0 +1,9 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/explanatory-variable.json",
+  "name": "Explanatory variable",
+  "alternateName": "Independent variable",
+  "disambiguatingDescription": "Contexts in which linguistic features appear",
+  "description": "Explanatory variables capture contexts in which linguistic features appear - for example age, gender, proficiency in the language, genre, register, date of publication."
+}

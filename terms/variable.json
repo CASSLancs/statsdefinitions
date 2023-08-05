@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/variable.json",
+  "name": "Variable",
+  "disambiguatingDescription": "Something that can take on different values.",
+  "description": "Variables can vary, or take on different values, across a dataset. For example, gender could vary between speakers in a corpus. Lots of corpora research is about identifying these variables and finding relationships between them. There is a distinction between linguistic variables - frequencies of linguistic features - and explanatory variables - contexts in which the features appear. They can be nominal, ordinal, and scale variables."
+}

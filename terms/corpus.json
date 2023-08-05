@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/corpus.json",
+  "name": "Corpus",
+  "disambiguatingDescription": "Linguistic data - collection of texts and transcripts.",
+  "description": "A specific form of linguistic data, made up of written texts or transcripts of spoken word. Usually it represents a sample of a language, but can occasionally represent the entire population. These corpora can be searched with software which can also often do basic satistical analysis (for example, statistical identification of collocations and keywords), but more complex tasks may require more specific statistical packages."
+}
