@@ -1,19 +1,19 @@
 # Citations
 
-| Word                                                       | Citation                                                             |
-|------------------------------------------------------------|----------------------------------------------------------------------|
-| Corpora, Corpus                                            | Brezina, 2018                                                        |
-| Dataset                                                    | Brezina, 2018                                                        |
-| Distribution, Frequency Distribution                       | Brezina, 2018                                                        |
-| Explanatory variable, Linquistic variable                  | Brezina, 2018                                                        |
-| Statistics                                                 | Brezina, 2018; McEnery and Hardie, 2011                              |
-| Variable                                                   | Brezina, 2018                                                        |
-| Nominal variable, Ordinal variables, Scale variables       | Brezina, 2018                                                        |
-| Outliers, Rogue Values                                     | Brezina, 2018                                                        |
-| Measure of Central Tendency, Mean, Median                  | Brezina, 2018                                                        |
-| Dispersion, Range, Interquartile range, Standard deviation | Brezina, 2018                                                        |
-| Statistical measure, Statistical test, p-values            | Brezina, 2018                                                        |
-| Assumptions                                                | Brezina, 2018, Boneau 1960, Lumley et al. 2002, Schmider et al. 2010 |
+| Word                                                       | Citation                                                                |
+|------------------------------------------------------------|-------------------------------------------------------------------------|
+| Corpora, Corpus                                            | Brezina, 2018                                                           |
+| Dataset                                                    | Brezina, 2018                                                           |
+| Distribution, Frequency Distribution                       | Brezina, 2018                                                           |
+| Explanatory variable, Linquistic variable                  | Brezina, 2018                                                           |
+| Statistics                                                 | Brezina, 2018; McEnery and Hardie, 2011                                 |
+| Variable                                                   | Brezina, 2018                                                           |
+| Nominal variable, Ordinal variables, Scale variables       | Brezina, 2018                                                           |
+| Outliers, Rogue Values                                     | Brezina, 2018                                                           |
+| Measure of Central Tendency, Mean, Median                  | Brezina, 2018                                                           |
+| Dispersion, Range, Interquartile range, Standard deviation | Brezina, 2018                                                           |
+| Statistical measure, Statistical test, p-values            | Brezina, 2018                                                           |
+| Assumptions                                                | Brezina, 2018; Boneau, 1960; Lumley et al., 2002; Schmider et al., 2010 |
 
 
 # Bibliography
