@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/median.json",
+  "name": "Median",
+  "disambiguatingDescription": "The middle value in an ordered series.",
+  "description": "The median is the middle value in a series ordered smallest to largest. If the middle value falls between two values (because the number of instances is even), the median is the two middle values added together and halved. This means that outliers have no real impact, as the middle value is unaffected by an extreme value changing."
+}

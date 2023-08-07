@@ -1,0 +1,9 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/measure-central-tendency.json",
+  "name": "Measure of Central Tendency",
+  "alternateName": "Average",
+  "disambiguatingDescription": "One summary value for a scale variable.",
+  "description": "One summary value for a set of values in a scale variable. A simple statistical model can be paired with dispersion to create a complete and useful description of the data. Different types of average can be used - in corpus linguistics, mean, 20% trimmed mean, and median are most useful."
+}

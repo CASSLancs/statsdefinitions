@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/outliers.json",
+  "name": "Outliers",
+  "disambiguatingDescription": "Extreme but still valid values.",
+  "description": "Outliers are values very far from the rest of the values, but still valid and correct (as opposed to rogue values). Despite not being errors, they still present problems for statistical models as they may obscure the general tendency (see measure  of central tendency) - so the researcher has to decide how to go about the analysis of data with outliers, which may be excluding (or bracketing out) the data entirely, if there's good reason to."
+}

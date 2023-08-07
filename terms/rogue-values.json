@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/rogue-values.json",
+  "name": "Rogue values",
+  "disambiguatingDescription": "Erroneous, extreme data.",
+  "description": "Rogue values are erroneous data (as opposed to outliers), perhaps caused by mistyped data, tagging errors, or some other measurement error."
+}
