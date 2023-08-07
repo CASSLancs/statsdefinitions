@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/range-dsp.json",
+  "name": "Range",
+  "disambiguatingDescription": "Difference between smallest and largest value",
+  "description": "The range is the difference between the smallest and largest value, which gives an idea of the dispersion. However it is effected by outliers, so the interquartile range may be more useful."
+}

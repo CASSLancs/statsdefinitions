@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/statistical-test.json",
+  "name": "Statistical test",
+  "disambiguatingDescription": "A procedure in inferential stats, used in null hypothesis tests.",
+  "description": "A statistical test is a procedure in a branch of inferential stats, whose underlying logic relies on Null Hypothesis Significance Testing (NHST). It produces a P-value and usually a test statistic. The P-value can be used to reject the null hypothesis, if the p value is lower than the cut-off point (more information, see NHST)"
+}

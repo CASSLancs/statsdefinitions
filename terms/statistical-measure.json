@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/statistical-measure.json",
+  "name": "Statistical measure",
+  "disambiguatingDescription": "General term for any calculated statistic",
+  "description": "A statistical measure is a general terms for any calculated statistic, from a simple mean to complex statistical modelling. Examples include Standard Deviation, Cohen's d, MI score, delta P, t-score, and F-score."
+}

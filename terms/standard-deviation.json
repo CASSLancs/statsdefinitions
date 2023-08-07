@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/standard-deviation.json",
+  "name": "Standard Deviation",
+  "disambiguatingDescription": "A measure of values' overall distances from the mean",
+  "description": "Standard deviation is the square root of the sum of all the squares of each values difference from the mean - √(Σ((mean - value)²)). It gives an indication of the overall distance of the mean for the set of values."
+}

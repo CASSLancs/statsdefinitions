@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/assumptions.json",
+  "name": "Assumptions",
+  "disambiguatingDescription": "Conditions of a test to be met by data for valid results",
+  "description": "A test's assumptions are conditions that the data must fulfil in order for the test results to be valid. For example, many parametric tests compare means, and so have the assumption that the data's frequency distribution does not deviate considerably from a normal distribution. If the data is too skewed, a non-parametric test may be appropriate - however some research (Boneau 1960, Lumley et al 2002, Schmider et al 2010) suggests some tests such as ANOVA and t-test may be robust to this assumption (i.e. they produce valid results even if it is violated). Other common assumptions are homogeneity of variance, Independence, and Linearity."
+}

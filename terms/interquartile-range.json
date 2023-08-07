@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/interquartile-range.json",
+  "name": "Interquartile range",
+  "disambiguatingDescription": "Difference between lower and upper quartile.",
+  "description": "The range is the difference between the lower and upper quartile. It represent the middle bulk (or 50%) of the values (excluding median and quartile boundary values), which means outliers are effectively ignored."
+}

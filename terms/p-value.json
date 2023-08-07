@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/p-value.json",
+  "name": "p-value",
+  "disambiguatingDescription": "Probability that the data would be the same if null hypothesis was true",
+  "description": "The p-value is the probability the data would be just as (or even more) extreme if the null hypothesis (there is no difference in the datasets) was true. A higher p-value means any difference in two corpora is more likely to be a sampling error."
+}
