@@ -14,6 +14,8 @@
 | Dispersion, Range, Interquartile range, Standard deviation | Brezina, 2018                                                           |
 | Statistical measure, Statistical test, p-values            | Brezina, 2018                                                           |
 | Assumptions                                                | Brezina, 2018; Boneau, 1960; Lumley et al., 2002; Schmider et al., 2010 |
+| Confidence interval                                        | Brezina, 2018                                                           |
+| Effect size                                                | Brezina, 2018; Cohen, 1988                                              |
 
 
 # Bibliography
@@ -23,3 +25,4 @@
 3. Boneau, C. A. (1960). The effects of violations of assumptions underlying the t test. Psychological Bulletin, 57(1), 49.
 4. Lumley, T., Diehr, P., Emerson, S. & Chen, L. (2002). The importance of the normality assumption in large public health data sets. Annual Review of Public Health, 23(1), 151–69.
 5. Schmider, E., Ziegler, M., Danay, E., Beyer, L. & Bühner, M.. (2010). ‘Is it really robust?’ Reinvestigating the robustness of ANOVA against violations of the normal distribution assumption. Methodology: European Journal of Research Methods for the Behavioral and Social Sciences, 6(4), 147–51.
+6. Cohen, J. (1988). Statistical power analysis for the behavioral sciences. Hillsdale, NJ: Erlbaum.

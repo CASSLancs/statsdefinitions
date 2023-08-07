@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/confidence-interval.json",
+  "name": "Confidence interval",
+  "disambiguatingDescription": "An estimate of the true value of a statistical measure",
+  "description": "The confidence interval is a range of values in which an estimation of the true value of a statistical measure (such as the mean) or a difference between two statistical measures (such as the difference between two means) lies. It is an attempt to move away from the yes/no nature of NHST and statistical testing in general. Corpus linguistics generally uses 95% confidence intervals, i.e. the true value sits within this range for 95% of samples (i.e. corpora) taken from the same population.\nIn practice, they can be used to compare two or more corpora - if their confidence intervals largely overlap, they were probably taken from the same population. If not, they probably came from different populations"
+}
