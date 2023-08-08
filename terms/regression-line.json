@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/regression-line.json",
+  "name": "Regression line",
+  "disambiguatingDescription": "Example of a mathematical representation of complex linguistic reality shown on a graph.",
+  "description": "Example of a mathematical representation of complex linguistic reality shown on a graph."
+}

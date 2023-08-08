@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/sample.json",
+  "name": "Sample",
+  "disambiguatingDescription": "Small subset of the language production of interest.",
+  "description": "Small subset of the language production of interest."
+}

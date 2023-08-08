@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/logistic-regression.json",
+  "name": "Logistic regression",
+  "disambiguatingDescription": "Statistical technique that uses explanatory variables (which can be categorical or scale) to estimate their effect on the linguistic variable (which must be categorical).",
+  "description": "Statistical technique that uses explanatory variables (which can be categorical or scale) to estimate their effect on the linguistic variable (which must be categorical)."
+}

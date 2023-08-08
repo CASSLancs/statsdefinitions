@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/log-odds-ratios.json",
+  "name": "Log odds ratios",
+  "disambiguatingDescription": "Take the natural logarithm of odds ratios and are useful for internal operation of logistic regression.",
+  "description": "Take the natural logarithm of odds ratios and are useful for internal operation of logistic regression."
+}

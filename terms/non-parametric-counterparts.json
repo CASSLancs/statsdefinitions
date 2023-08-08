@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/non-parametric-counterparts.json",
+  "name": "Non-parametric counterparts",
+  "disambiguatingDescription": "Are those with which we do not need to know any information about the parameters (such as the mean of standard deviation) of the variable of interest in the population (Dodge 2008).",
+  "description": "Are those with which we do not need to know any information about the parameters (such as the mean of standard deviation) of the variable of interest in the population (Dodge 2008)."
+}

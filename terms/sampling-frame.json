@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/sampling-frame.json",
+  "name": "Sampling frame",
+  "disambiguatingDescription": "Set of categories from which corpus designers aim to collect an unbiased sample.",
+  "description": "Set of categories from which corpus designers aim to collect an unbiased sample."
+}

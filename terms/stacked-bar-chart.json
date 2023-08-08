@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/stacked-bar-chart.json",
+  "name": "Stacked bar chart",
+  "disambiguatingDescription": "Graphical representation of (relative) frequencies of a linguistic variable with multiple variants in different parts of a corpus.",
+  "description": "Graphical representation of (relative) frequencies of a linguistic variable with multiple variants in different parts of a corpus."
+}

@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/hybrid.json",
+  "name": "Hybrid",
+  "disambiguatingDescription": "Procedure combines forward and backward techniques, adding and deleting predictors depending on reassessment of the model at each stage.",
+  "description": "Procedure combines forward and backward techniques, adding and deleting predictors depending on reassessment of the model at each stage."
+}

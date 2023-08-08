@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/random-effects.json",
+  "name": "Random effects",
+  "disambiguatingDescription": "Represent other sources of variation that need to be taken into account, such as individual speaker preferences, but are not part of the research question.",
+  "description": "Represent other sources of variation that need to be taken into account, such as individual speaker preferences, but are not part of the research question."
+}

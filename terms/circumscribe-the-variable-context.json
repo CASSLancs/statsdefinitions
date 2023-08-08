@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/circumscribe-the-variable-context.json",
+  "name": "Circumscribe the variable context",
+  "disambiguatingDescription": "Means to define the envelope of variation (lexico-grammatical frame).",
+  "description": "Means to define the envelope of variation (lexico-grammatical frame)."
+}

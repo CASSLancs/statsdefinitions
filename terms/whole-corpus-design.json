@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/whole-corpus-design.json",
+  "name": "Whole corpus design",
+  "disambiguatingDescription": "Type of research design in which the unit of analysis is usually the whole corpus.",
+  "description": "Type of research design in which the unit of analysis is usually the whole corpus."
+}

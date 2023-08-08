@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/linearity.json",
+  "name": "Linearity",
+  "disambiguatingDescription": "Means that the relationship between variables can be captured by a (regression) line.",
+  "description": "Means that the relationship between variables can be captured by a (regression) line."
+}

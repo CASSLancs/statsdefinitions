@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/bootstrap-test.json",
+  "name": "Bootstrap test",
+  "disambiguatingDescription": "Non-parametric test of statistical significance which compares two corpora and computes the p-value associated with the comparison.",
+  "description": "Non-parametric test of statistical significance which compares two corpora and computes the p-value associated with the comparison."
+}

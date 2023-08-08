@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/log-likelihood-test.json",
+  "name": "Log-likelihood test",
+  "disambiguatingDescription": "Measures statistical significance.",
+  "description": "Measures statistical significance."
+}

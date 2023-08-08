@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/rogue-value.json",
+  "name": "Rogue value",
+  "disambiguatingDescription": "Measurement error which can be caused, for example, by mistyping.",
+  "description": "Measurement error which can be caused, for example, by mistyping."
+}

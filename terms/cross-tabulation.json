@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/cross-tabulation.json",
+  "name": "Cross-tabulation",
+  "disambiguatingDescription": "Technique which examines the relationship between categorical variables.",
+  "description": "Technique which examines the relationship between categorical variables."
+}

@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/individual-text_speaker-design.json",
+  "name": "Individual text/speaker design",
+  "disambiguatingDescription": "Type of research design which enables us to trace the frequency of a linguistic feature in the individual texts or speakers.",
+  "description": "Type of research design which enables us to trace the frequency of a linguistic feature in the individual texts or speakers."
+}

@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/fixed-effects.json",
+  "name": "Fixed effects",
+  "disambiguatingDescription": "Are explanatory variables that are the direct object of the sociolinguistic investigation.",
+  "description": "Are explanatory variables that are the direct object of the sociolinguistic investigation."
+}

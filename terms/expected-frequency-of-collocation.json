@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/expected-frequency-of-collocation.json",
+  "name": "Expected frequency of collocation",
+  "disambiguatingDescription": "Is the product of establishing the random co-occurrence base-line, and can be calculated by multiplying node frequency by collocate frequency and dividing this by the number of tokens in the text or corpus.",
+  "description": "Is the product of establishing the random co-occurrence base-line, and can be calculated by multiplying node frequency by collocate frequency and dividing this by the number of tokens in the text or corpus."
+}

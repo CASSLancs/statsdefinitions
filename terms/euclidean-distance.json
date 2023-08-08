@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/euclidean-distance.json",
+  "name": "Euclidean distance",
+  "disambiguatingDescription": "Is the shortest distance between one point (A) and another point (B) via a direct line between the two points.",
+  "description": "Is the shortest distance between one point (A) and another point (B) via a direct line between the two points."
+}

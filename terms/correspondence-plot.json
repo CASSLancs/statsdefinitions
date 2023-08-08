@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/correspondence-plot.json",
+  "name": "Correspondence plot",
+  "disambiguatingDescription": "Visual depiction of a cross-tabulation table which is projected in a (typically) two-dimensional space using the chi-squared distance as a measure of closeness/remoteness of the categories listed in the table.",
+  "description": "Visual depiction of a cross-tabulation table which is projected in a (typically) two-dimensional space using the chi-squared distance as a measure of closeness/remoteness of the categories listed in the table."
+}

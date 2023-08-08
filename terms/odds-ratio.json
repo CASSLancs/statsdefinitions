@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/odds-ratio.json",
+  "name": "Odds ratio",
+  "disambiguatingDescription": "Uses odds instead of probabilities.",
+  "description": "Uses odds instead of probabilities. An odds ratio larger than 1 indicates that the odds of the outcome of interest occurring in the context of interest are larger than those of the same outcome occurring in the baseline context."
+}

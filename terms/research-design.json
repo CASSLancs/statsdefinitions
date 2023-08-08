@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/research-design.json",
+  "name": "Research design",
+  "disambiguatingDescription": "Is the type and format of the data that needs to be obtained from the corpus in order to answer the research question.",
+  "description": "Is the type and format of the data that needs to be obtained from the corpus in order to answer the research question."
+}

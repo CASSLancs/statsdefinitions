@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/collocations.json",
+  "name": "Collocations",
+  "disambiguatingDescription": "Are words that occur in combinations habitually in texts and corpora.",
+  "description": "Are words that occur in combinations habitually in texts and corpora."
+}

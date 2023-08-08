@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/pearsons-correlation.json",
+  "name": "Pearson's correlation",
+  "disambiguatingDescription": "Is designed to work with scale variables.",
+  "description": "Is designed to work with scale variables. It expresses the amount of covariance (variation that the variables have in common) in the data in terms of the standard deviations of the two variables in question."
+}

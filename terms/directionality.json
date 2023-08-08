@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/directionality.json",
+  "name": "Directionality",
+  "disambiguatingDescription": "Is when we consider the symmetry between a node and a collocate- whether the attraction to each word is neutral.",
+  "description": "Is when we consider the symmetry between a node and a collocate- whether the attraction to each word is neutral."
+}

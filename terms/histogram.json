@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/histogram.json",
+  "name": "Histogram",
+  "disambiguatingDescription": "Graph that shows the frequency distribution of a linguistic variable in the form of bars, each representing the frequency of values in the linguistic variable in a given interval or bin.",
+  "description": "Graph that shows the frequency distribution of a linguistic variable in the form of bars, each representing the frequency of values in the linguistic variable in a given interval or bin."
+}

@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/multidimensional-analysis.json",
+  "name": "Multidimensional analysis",
+  "disambiguatingDescription": "Complex procedure developed by Biber (1988) that deals with a large number of linguistic variables and identifies underlying principles of functional variation by looking at how individual linguistic variables co-occur in texts.",
+  "description": "Complex procedure developed by Biber (1988) that deals with a large number of linguistic variables and identifies underlying principles of functional variation by looking at how individual linguistic variables co-occur in texts. There are 4 steps to the process: 1) Identification of relevant variables, 2) Extraction of factors from multiple variables, 3) Functional interpretations of factors as dimensions, and 4) Placement of registers on the dimensions."
+}

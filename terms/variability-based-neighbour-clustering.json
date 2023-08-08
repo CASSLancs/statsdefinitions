@@ -1,0 +1,9 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/variability-based-neighbour-clustering.json",
+  "name": "Variability-based neighbour clustering",
+  "disambiguatingDescription": "Computes similarity only between temporally adjacent data points (e.",
+  "description": "Computes similarity only between temporally adjacent data points (e.g. individual years that follow each other) and then merges those that are most similar.",
+  "alternateName": "VNC"
+}

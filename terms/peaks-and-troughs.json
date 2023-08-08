@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/peaks-and-troughs.json",
+  "name": "Peaks and troughs",
+  "disambiguatingDescription": "Method of analysing and visualizing diachronic data, which applies a non-linear regression model (specifically GAM) to data points that show the development of a linguistic variable over time in order to identify statistically significant outliers.",
+  "description": "Method of analysing and visualizing diachronic data, which applies a non-linear regression model (specifically GAM) to data points that show the development of a linguistic variable over time in order to identify statistically significant outliers."
+}

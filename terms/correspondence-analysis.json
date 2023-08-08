@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/correspondence-analysis.json",
+  "name": "Correspondence analysis",
+  "disambiguatingDescription": "Known as optimal scaling and homogeneity analysis.",
+  "description": "Known as optimal scaling and homogeneity analysis. It is a summary technique which outputs a correspondence plot."
+}

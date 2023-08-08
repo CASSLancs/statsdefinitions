@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/bias.json",
+  "name": "Bias",
+  "disambiguatingDescription": "Systematic but often hidden deviation of the sample from the population.",
+  "description": "Systematic but often hidden deviation of the sample from the population."
+}

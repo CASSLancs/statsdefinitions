@@ -1,0 +1,9 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/meaning-fluctuation-analysis.json",
+  "name": "Meaning Fluctuation Analysis",
+  "disambiguatingDescription": "Extension of the peaks and troughs technique which investigates the development of the meaning of a particular word through analysing a changing profile of collocates around the word.",
+  "description": "Extension of the peaks and troughs technique which investigates the development of the meaning of a particular word through analysing a changing profile of collocates around the word.",
+  "alternateName": "MFA"
+}

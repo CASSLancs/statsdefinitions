@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/multinomial-logistic-regression.json",
+  "name": "Multinomial logistic regression",
+  "disambiguatingDescription": "Follows the same principles as binomial regression, but the comparisons are somewhat more complex.",
+  "description": "Follows the same principles as binomial regression, but the comparisons are somewhat more complex."
+}

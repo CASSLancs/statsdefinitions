@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/ambient-linguistic-variables.json",
+  "name": "Ambient linguistic variables",
+  "disambiguatingDescription": "Can appear in any possible context and do not have a clearly defined lexico-grammatical frame.",
+  "description": "Can appear in any possible context and do not have a clearly defined lexico-grammatical frame."
+}

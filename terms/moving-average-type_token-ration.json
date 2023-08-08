@@ -1,0 +1,9 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/moving-average-type_token-ration.json",
+  "name": "Moving average type/token ration",
+  "disambiguatingDescription": "Also calculates the average of TTRs in same size segments.",
+  "description": "Also calculates the average of TTRs in same size segments. However, instead of dividing the text into successive non-overlapping segments, MATTR uses an overlapping window moving smoothly through the text. This is a more robust measure as it takes into account all possible segmentations.",
+  "alternateName": "MATTR"
+}

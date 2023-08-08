@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/meta-analysis.json",
+  "name": "Meta-analysis",
+  "disambiguatingDescription": "Quantitative procedure of statistical synthesis of research results, which is based on combining the effects reported in multiple individual studies and calculating the summary effect (Borenstein 2009).",
+  "description": "Quantitative procedure of statistical synthesis of research results, which is based on combining the effects reported in multiple individual studies and calculating the summary effect (Borenstein 2009)."
+}

@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/manhattan-distance.json",
+  "name": "Manhattan distance",
+  "disambiguatingDescription": "Is when the distance between (A) and (B) is calculated by following the grids at right angles, and is more robust when dealing with outliers.",
+  "description": "Is when the distance between (A) and (B) is calculated by following the grids at right angles, and is more robust when dealing with outliers."
+}

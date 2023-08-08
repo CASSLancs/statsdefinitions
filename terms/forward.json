@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/forward.json",
+  "name": "Forward",
+  "disambiguatingDescription": "Procedure in step-wise entry that starts with no predictor variables in the model and keeps adding variables one-by-one.",
+  "description": "Procedure in step-wise entry that starts with no predictor variables in the model and keeps adding variables one-by-one."
+}

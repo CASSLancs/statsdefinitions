@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/collocation-graph.json",
+  "name": "Collocation graph",
+  "disambiguatingDescription": "Visual representation of the collocational relationship between a node and its collocates.",
+  "description": "Visual representation of the collocational relationship between a node and its collocates."
+}

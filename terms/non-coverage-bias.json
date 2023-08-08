@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/non-coverage-bias.json",
+  "name": "Non-coverage bias",
+  "disambiguatingDescription": "Is when some texts are more 'visible' than others in a corpus because designers see them as more prototypical for some reason.",
+  "description": "Is when some texts are more 'visible' than others in a corpus because designers see them as more prototypical for some reason."
+}

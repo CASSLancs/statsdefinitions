@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/statistically-significant.json",
+  "name": "Statistically significant",
+  "disambiguatingDescription": "When the difference observed in a sample is likely to be a true difference in the population.",
+  "description": "When the difference observed in a sample is likely to be a true difference in the population."
+}

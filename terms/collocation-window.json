@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/collocation-window.json",
+  "name": "Collocation window",
+  "disambiguatingDescription": "Defined span around the node where we find the collocates.",
+  "description": "Defined span around the node where we find the collocates."
+}

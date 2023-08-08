@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/lexeme.json",
+  "name": "Lexeme",
+  "disambiguatingDescription": "Lemma with a particular meaning attached to it, which is necessary to distinguish polysemous words (words with multiple meanings).",
+  "description": "Lemma with a particular meaning attached to it, which is necessary to distinguish polysemous words (words with multiple meanings)"
+}

@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/probability-ratio.json",
+  "name": "Probability ratio",
+  "disambiguatingDescription": "Ratio of two probabilities from the cross-tab table comparing the probability of a particular linguistic outcome occurring in one context type relative to the same outcome occurring in another context type.",
+  "description": "Ratio of two probabilities from the cross-tab table comparing the probability of a particular linguistic outcome occurring in one context type relative to the same outcome occurring in another context type. It is calculated by dividing the probability of the outcome of interest in context 1 by the probability of the outcome of interest in context 2."
+}

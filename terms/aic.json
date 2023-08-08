@@ -1,0 +1,9 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/aic.json",
+  "name": "AIC",
+  "disambiguatingDescription": "Is used to establish which model is the most efficient by reaching significance with as few variables as possible.",
+  "description": "Is used to establish which model is the most efficient by reaching significance with as few variables as possible. When comparing two models based on the same dataset, the smaller the AIC, the better the dataset.",
+  "alternateName": "Akaike information criterion"
+}

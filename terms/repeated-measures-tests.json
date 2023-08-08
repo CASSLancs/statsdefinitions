@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/repeated-measures-tests.json",
+  "name": "Repeated measures tests",
+  "disambiguatingDescription": "Match individual speakers across conditions and do not assume random distribution of speakers in different groups.",
+  "description": "Match individual speakers across conditions and do not assume random distribution of speakers in different groups."
+}

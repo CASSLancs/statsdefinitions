@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/self-selection-bias.json",
+  "name": "Self-selection bias",
+  "disambiguatingDescription": "Bias created when contributors are asked to provide texts on a voluntary basis.",
+  "description": "Bias created when contributors are asked to provide texts on a voluntary basis. For example, in a situation where classroom students are asked to volunteer, we may end up with texts from highly motivated students which will not reflect the production of the whole class."
+}

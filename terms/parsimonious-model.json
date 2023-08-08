@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/parsimonious-model.json",
+  "name": "Parsimonious model",
+  "disambiguatingDescription": "Model that explains as much variation in the data as possible with as little data as possible.",
+  "description": "Model that explains as much variation in the data as possible with as little data as possible."
+}

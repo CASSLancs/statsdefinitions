@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/profiles.json",
+  "name": "Profiles",
+  "disambiguatingDescription": "Are proportions (percentages) based on row and column totals.",
+  "description": "Are proportions (percentages) based on row and column totals. They are expressed as decimal numbers."
+}

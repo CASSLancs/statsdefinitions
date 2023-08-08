@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/categorical-variables.json",
+  "name": "Categorical variables",
+  "disambiguatingDescription": "Are nominal and ordinal variables.",
+  "description": "Are nominal and ordinal variables."
+}

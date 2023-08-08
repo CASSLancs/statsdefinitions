@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/practical-importance.json",
+  "name": "Practical importance",
+  "disambiguatingDescription": "Uses standardized statistical measures to express the size of the effect.",
+  "description": "Uses standardized statistical measures to express the size of the effect."
+}

@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/association-measures.json",
+  "name": "Association measures",
+  "disambiguatingDescription": "Are statistical measures that calculate the strength of association between words based on different aspects of the co-occurrence relationship.",
+  "description": "Are statistical measures that calculate the strength of association between words based on different aspects of the co-occurrence relationship."
+}

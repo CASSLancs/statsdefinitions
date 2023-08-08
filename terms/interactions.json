@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/interactions.json",
+  "name": "Interactions",
+  "disambiguatingDescription": "Are specific predictor combinations which can, in some cases, have a significant impact on the outcome.",
+  "description": "Are specific predictor combinations which can, in some cases, have a significant impact on the outcome."
+}

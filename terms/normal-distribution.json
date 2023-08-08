@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/normal-distribution.json",
+  "name": "Normal distribution",
+  "disambiguatingDescription": "Is one of the common distributions often used in statistics.",
+  "description": "Is one of the common distributions often used in statistics. It is shaped like a symmetrical bell."
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/absolute-frequency.json",
+  "name": "Absolute frequency",
+  "disambiguatingDescription": "Is the actual count of all occurrences of a particular word in a corpus.",
+  "description": "Is the actual count of all occurrences of a particular word in a corpus.",
+  "alternateName": "AF"
+}

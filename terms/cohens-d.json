@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/cohens-d.json",
+  "name": "Cohen's d",
+  "disambiguatingDescription": "Effect size measure which is calculated as the difference between the two means expressed in standard deviation units.",
+  "description": "Effect size measure which is calculated as the difference between the two means expressed in standard deviation units."
+}

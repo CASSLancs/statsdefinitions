@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/step-wise-entry.json",
+  "name": "Step-wise entry",
+  "disambiguatingDescription": "Is where we let the statistical software add or remove variables step-by-step until the information criterion is called AIC of the model is no further improved.",
+  "description": "Is where we let the statistical software add or remove variables step-by-step until the information criterion is called AIC of the model is no further improved."
+}

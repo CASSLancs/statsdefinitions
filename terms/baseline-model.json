@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/baseline-model.json",
+  "name": "Baseline model",
+  "disambiguatingDescription": "Includes no predictors and is used only as a reference point for more complex models.",
+  "description": "Includes no predictors and is used only as a reference point for more complex models."
+}

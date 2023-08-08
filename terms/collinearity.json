@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/collinearity.json",
+  "name": "Collinearity",
+  "disambiguatingDescription": "Is characterised by high correlation between predictor variables.",
+  "description": "Is characterised by high correlation between predictor variables."
+}

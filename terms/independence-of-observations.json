@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/independence-of-observations.json",
+  "name": "Independence of observations",
+  "disambiguatingDescription": "Is the assumption that every observation is independent of another.",
+  "description": "Is the assumption that every observation is independent of another."
+}

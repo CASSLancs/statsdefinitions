@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/publication-bias.json",
+  "name": "Publication bias",
+  "disambiguatingDescription": "Is the phenomenon of overreporting stronger, statistically significant results and underreporting null results in published work.",
+  "description": "Is the phenomenon of overreporting stronger, statistically significant results and underreporting null results in published work."
+}

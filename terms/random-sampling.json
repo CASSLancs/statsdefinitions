@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/random-sampling.json",
+  "name": "Random sampling",
+  "disambiguatingDescription": "In language would be where each text ever produced and every spoken interaction that has ever taken place has the same chance of appearing in a sample.",
+  "description": "In language would be where each text ever produced and every spoken interaction that has ever taken place has the same chance of appearing in a sample. This is, however, impracticable."
+}

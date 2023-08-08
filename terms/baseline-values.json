@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/baseline-values.json",
+  "name": "Baseline values",
+  "disambiguatingDescription": "Are values against which the model compares the effects of the predictor(s) on the outcome.",
+  "description": "Are values against which the model compares the effects of the predictor(s) on the outcome."
+}

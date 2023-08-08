@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "DefinedTerm",
+  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/scatterplot-matrix.json",
+  "name": "Scatterplot matrix",
+  "disambiguatingDescription": "Is how multiple scatterplots are presented.",
+  "description": "Is how multiple scatterplots are presented."
+}
