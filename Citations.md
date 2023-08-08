@@ -1,5 +1,7 @@
 # Citations
 
+Where a word is missing a citation, it can be assumed it is from Brezina, 2018
+
 | Word                                                       | Citation                                                                |
 |------------------------------------------------------------|-------------------------------------------------------------------------|
 | Corpora, Corpus                                            | Brezina, 2018                                                           |
