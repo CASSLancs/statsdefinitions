@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/welchs-independent-samples-t-test.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/welchs-independent-samples-t-test.json",
   "name": "Welch's independent samples t-test",
   "disambiguatingDescription": "Compares two groups of speakers.",
   "description": "Compares two groups of speakers. The t-test compares the mean values of the linguistic variable and takes into consideration the internal variation in each group expressed as variance."

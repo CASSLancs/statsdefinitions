@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/intercept.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/intercept.json",
   "name": "Intercept",
   "disambiguatingDescription": "Baseline value in the model estimating the situation where all predictors are at their baseline values.",
   "description": "Baseline value in the model estimating the situation where all predictors are at their baseline values."

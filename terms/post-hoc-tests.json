@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/post-hoc-tests.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/post-hoc-tests.json",
   "name": "Post-hoc tests",
   "disambiguatingDescription": "Are pair-wise comparisons of individual group tests with a correction for multiple testing.",
   "description": "Are pair-wise comparisons of individual group tests with a correction for multiple testing."

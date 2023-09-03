@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/lockwords.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/lockwords.json",
   "name": "Lockwords",
   "disambiguatingDescription": "Are words that occur with similar frequencies in two corpora that we compare.",
   "description": "Are words that occur with similar frequencies in two corpora that we compare."

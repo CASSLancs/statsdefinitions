@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/dispersion.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/dispersion.json",
   "name": "Dispersion",
   "disambiguatingDescription": "Spread of values in a dataset.",
   "description": "Dispersion is how values in a scale variable's dataset are spread. This can be represented visually by drawing a line, on which values are plotted - you can then see how far apart the values are, as well as range and interquartile range. Alternatively standard deviation can be used to describe distances from the mean."

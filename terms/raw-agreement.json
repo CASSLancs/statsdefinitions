@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/raw-agreement.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/raw-agreement.json",
   "name": "Raw agreement",
   "disambiguatingDescription": "Metric, often expressed as a percentage, which provides the proportion of agreement cases in all cases.",
   "description": "Metric, often expressed as a percentage, which provides the proportion of agreement cases in all cases. It is calculated by dividing the cases of agreement by the total number of cases."

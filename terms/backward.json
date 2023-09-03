@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/backward.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/backward.json",
   "name": "Backward",
   "disambiguatingDescription": "Procedure in step-wise entry starts with a model which includes all available variables and deletes them one-by-one.",
   "description": "Procedure in step-wise entry starts with a model which includes all available variables and deletes them one-by-one."

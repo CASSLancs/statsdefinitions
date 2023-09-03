@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/inferential-statistics.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/inferential-statistics.json",
   "name": "Inferential statistics",
   "disambiguatingDescription": "Is that which goes beyond the sample to infer something about the population.",
   "description": "Is that which goes beyond the sample to infer something about the population."

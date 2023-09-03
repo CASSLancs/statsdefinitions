@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/correlation.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/correlation.json",
   "name": "Correlation",
   "disambiguatingDescription": "Measures whether two ordinal or scale variables are related by looking at the extent to which they covary.",
   "description": "Measures whether two ordinal or scale variables are related by looking at the extent to which they covary. In other words, looking at if one variable increases, the other increases, decreases or stays the same."

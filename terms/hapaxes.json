@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/hapaxes.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/hapaxes.json",
   "name": "Hapaxes",
   "disambiguatingDescription": "Are types that occur only once in a corpus.",
   "description": "Are types that occur only once in a corpus."

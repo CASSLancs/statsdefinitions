@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/hierarchical-agglomerative-cluster-analysis.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/hierarchical-agglomerative-cluster-analysis.json",
   "name": "Hierarchical agglomerative cluster analysis",
   "disambiguatingDescription": "Type of cluster analysis typically used in corpus linguistics for non-diachronic data.",
   "description": "Type of cluster analysis typically used in corpus linguistics for non-diachronic data. We take the individual data points and in a step-by-step (hierarchical) procedure join (i.e. agglomerate) the closest ones until we create one large cluster containing all the data points."

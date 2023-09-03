@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/mann-whitney-u-test.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/mann-whitney-u-test.json",
   "name": "Mann-Whitney U test",
   "disambiguatingDescription": "Non-parametric test in which two U values are calculated, one for each group, from which the smaller value is then taken.",
   "description": "Non-parametric test in which two U values are calculated, one for each group, from which the smaller value is then taken. (Mann & Whitney 1947; Kerby 2014)"

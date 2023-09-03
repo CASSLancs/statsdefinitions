@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/factor.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/factor.json",
   "name": "Factor",
   "disambiguatingDescription": "Group of related linguistic variables summarizing a more general tendency (underlying dimension) in the data.",
   "description": "Group of related linguistic variables summarizing a more general tendency (underlying dimension) in the data."

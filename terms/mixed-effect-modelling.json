@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/mixed-effect-modelling.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/mixed-effect-modelling.json",
   "name": "Mixed-effect modelling",
   "disambiguatingDescription": "Is when we build a model from the data which best predicts the outcome variable, taking into account both so-called fixed and random effects.",
   "description": "Is when we build a model from the data which best predicts the outcome variable, taking into account both so-called fixed and random effects."

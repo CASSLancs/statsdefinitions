@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/curvilinear.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/curvilinear.json",
   "name": "Curvilinear",
   "disambiguatingDescription": "Means that the relationship between variables can be captured by a curve.",
   "description": "Means that the relationship between variables can be captured by a curve."

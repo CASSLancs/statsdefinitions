@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/factor-analysis.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/factor-analysis.json",
   "name": "Factor analysis",
   "disambiguatingDescription": "Complex mathematical procedure that reduces a large number of linguistic variables to a small number of factors, each combining multiple linguistic variables.",
   "description": "Complex mathematical procedure that reduces a large number of linguistic variables to a small number of factors, each combining multiple linguistic variables."

@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/normality-assumption.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/normality-assumption.json",
   "name": "Normality assumption",
   "disambiguatingDescription": "Presupposes that the frequency distribution of the linguistic variable does not deviate considerably from the normal distribution.",
   "description": "Presupposes that the frequency distribution of the linguistic variable does not deviate considerably from the normal distribution."

@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/probability-of-superiority.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/probability-of-superiority.json",
   "name": "Probability of superiority",
   "disambiguatingDescription": "Is the probability that a speaker/text picked randomly from the subcorpus with a larger mean value of the target variable will have a higher score than a speaker/text picked from the subcorpus with a lower mean value.",
   "description": "Is the probability that a speaker/text picked randomly from the subcorpus with a larger mean value of the target variable will have a higher score than a speaker/text picked from the subcorpus with a lower mean value.",

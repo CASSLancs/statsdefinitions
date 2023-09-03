@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/line-graph.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/line-graph.json",
   "name": "Line graph",
   "disambiguatingDescription": "Simple display which plots the time variable on the x-axis and the frequencies of linguistic variables on the y-axis.",
   "description": "Simple display which plots the time variable on the x-axis and the frequencies of linguistic variables on the y-axis."

@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/test-sample-bias.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/test-sample-bias.json",
   "name": "Test sample bias",
   "disambiguatingDescription": "Is where only certain sections of texts are used in a sample- for example, only the beginnings of books.",
   "description": "Is where only certain sections of texts are used in a sample- for example, only the beginnings of books."

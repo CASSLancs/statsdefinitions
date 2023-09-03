@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/block-entry.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/block-entry.json",
   "name": "Block entry",
   "disambiguatingDescription": "Way of deciding which relevant variables to put in the model by deciding a priori based on previous literature and linguistic theory, running the analysis then leaving in only the variables which have a statistically significant effect.",
   "description": "Way of deciding which relevant variables to put in the model by deciding a priori based on previous literature and linguistic theory, running the analysis then leaving in only the variables which have a statistically significant effect."

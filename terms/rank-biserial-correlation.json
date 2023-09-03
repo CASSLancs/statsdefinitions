@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/rank-biserial-correlation.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/rank-biserial-correlation.json",
   "name": "Rank biserial correlation",
   "disambiguatingDescription": "Can supplement the Mann-Whitney U test and is calculated by subtracting the second rank mean group from the first and dividing by the number of cases.",
   "description": "Can supplement the Mann-Whitney U test and is calculated by subtracting the second rank mean group from the first and dividing by the number of cases. It can take on the values -1 to 1 and the larger the value in absolute terms, the stronger the correlation."

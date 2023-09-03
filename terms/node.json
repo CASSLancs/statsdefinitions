@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/node.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/node.json",
   "name": "Node",
   "disambiguatingDescription": "Word that we want to search for and analyse.",
   "description": "Word that we want to search for and analyse."

@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/principle-of-accountability.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/principle-of-accountability.json",
   "name": "Principle of accountability",
   "disambiguatingDescription": "States that for the analysis to be meaningful, we have to find all contexts in which all variants of a sociolinguistic variable occur and include them in our analysis.",
   "description": "States that for the analysis to be meaningful, we have to find all contexts in which all variants of a sociolinguistic variable occur and include them in our analysis."

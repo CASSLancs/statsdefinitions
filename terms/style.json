@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/style.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/style.json",
   "name": "Style",
   "disambiguatingDescription": "Is defined by Coupland (2007: 2) as 'ways of speaking that are indexically linked to social groups, times and places'.",
   "description": "Is defined by Coupland (2007: 2) as 'ways of speaking that are indexically linked to social groups, times and places'. It is a unifying notion linking sociolinguistics (social style), stylistics (literary style) and forensic linguistics (individual style)."

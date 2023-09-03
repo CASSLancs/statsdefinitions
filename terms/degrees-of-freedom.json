@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/degrees-of-freedom.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/degrees-of-freedom.json",
   "name": "Degrees of freedom",
   "disambiguatingDescription": "Signifies a number of independent components in a calculation- i.",
   "description": "Signifies a number of independent components in a calculation- i.e. components that are not predictable from the previous components. In practice, it is the number of cases or groups minus 1."

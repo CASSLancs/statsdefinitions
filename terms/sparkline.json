@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/sparkline.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/sparkline.json",
   "name": "Sparkline",
   "disambiguatingDescription": "Small graph the size of a single word that can be seamlessly incorporated into text.",
   "description": "Small graph the size of a single word that can be seamlessly incorporated into text. They are generally most useful for diachronic data."

@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/standard-errors.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/standard-errors.json",
   "name": "Standard errors",
   "disambiguatingDescription": "Express how accurately the estimates reflect the value in the population- the smaller the better.",
   "description": "Express how accurately the estimates reflect the value in the population- the smaller the better."

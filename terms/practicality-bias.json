@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/practicality-bias.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/practicality-bias.json",
   "name": "Practicality bias",
   "disambiguatingDescription": "Is when texts- such as webpages- are chosen because they are easier to obtain than others.",
   "description": "Is when texts- such as webpages- are chosen because they are easier to obtain than others."

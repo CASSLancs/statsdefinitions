@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/kruskal-wallis-test.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/kruskal-wallis-test.json",
   "name": "Kruskal-Wallis test",
   "disambiguatingDescription": "A non-parametric test which works on a similar principle but takes into account ranks in multiple groups.",
   "description": "A non-parametric test which works on a similar principle but takes into account ranks in multiple groups. (Kruskal & Wallis 1952)"

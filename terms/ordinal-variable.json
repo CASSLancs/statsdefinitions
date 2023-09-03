@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/ordinal-variable.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/ordinal-variable.json",
   "name": "Ordinal Variable",
   "disambiguatingDescription": "Variable with groups, and an inherent order.",
   "description": "Variable whose value represent different categories in which the data can be grouped, and the groups have some kind of inherent hierarchy. For example, language proficiency can be sorted into groups (Beginner, Intermediate, Advanced, Fluent), and they have an inherent order (Beginner first, Fluent last). These groups are often assigned numbers in the order in which the categories go."

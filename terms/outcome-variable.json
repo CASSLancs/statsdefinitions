@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/outcome-variable.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/outcome-variable.json",
   "name": "Outcome variable",
   "disambiguatingDescription": "Is the linguistic variable of interest.",
   "description": "Is the linguistic variable of interest."

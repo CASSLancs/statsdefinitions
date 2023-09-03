@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/scree-plot.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/scree-plot.json",
   "name": "Scree plot",
   "disambiguatingDescription": "Graph which provides an indication of how many factors we should extract.",
   "description": "Graph which provides an indication of how many factors we should extract. It displays the number of factors (each represented by a small triangle) on the x-axis and eigenvalues on the y-axis."

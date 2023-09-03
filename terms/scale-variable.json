@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/scale-variable.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/scale-variable.json",
   "name": "Scale Variable",
   "disambiguatingDescription": "Quantitative variable, with values anywhere on a scale.",
   "description": "Variable whose value can be anywhere on a scale, showing the quantity of a particular feature. As the value is a measurable quantity (as opposed to rank orders), arithmetic operations such as add, subtract, multiple and divide can be applied. For linguistic variables, the scale can be relative frequencies of a linguistic feature in different texts or subcorpora. The frequency distribution of these can be shown in histograms."

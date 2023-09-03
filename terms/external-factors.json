@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/external-factors.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/external-factors.json",
   "name": "External factors",
   "disambiguatingDescription": "Are contextual/situational variables such as a speaker\u2019s age or gender.",
   "description": "Are contextual/situational variables such as a speaker\u2019s age or gender."

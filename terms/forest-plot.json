@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/forest-plot.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/forest-plot.json",
   "name": "Forest plot",
   "disambiguatingDescription": "Provides a summary of a meta-analysis by displaying the effect sizes of individual studies (filled squares), their confidence intervals (whiskers) and the overall effect size (diamond).",
   "description": "Provides a summary of a meta-analysis by displaying the effect sizes of individual studies (filled squares), their confidence intervals (whiskers) and the overall effect size (diamond). The size of the square represents the weight of an individual study in the analysis."

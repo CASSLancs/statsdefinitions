@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/explanatory-variable.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/explanatory-variable.json",
   "name": "Explanatory variable",
   "alternateName": "Independent variable",
   "disambiguatingDescription": "Contexts in which linguistic features appear",

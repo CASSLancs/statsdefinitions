@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/effect-size.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/effect-size.json",
   "name": "Effect size",
   "disambiguatingDescription": "A standardised measure of the importance of the observed effect.",
   "description": "Effect size is a standardised and comparable measure within descriptive statistics that expresses the practical importance of an effect observed in corpora. For example if a statistical test determines that two groups of speakers (e.g. students and professors) differ in the use of a linguistic variable, effect size such as *r*, odds ratio, or cohen's *d* can be used to understand the impact of that effect. Cohen (1988) provides some standard interpretations, but they are not necessarily absolute truth. An effect size (*r*) of 0.1 is a small effect, 0.3 is a medium effect, and 0.5 is a large effect."

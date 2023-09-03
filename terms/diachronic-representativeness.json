@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/diachronic-representativeness.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/diachronic-representativeness.json",
   "name": "Diachronic representativeness",
   "disambiguatingDescription": "Characteristic of a historical corpus which allows it to systematically reflect the population (language use) over time.",
   "description": "Characteristic of a historical corpus which allows it to systematically reflect the population (language use) over time."

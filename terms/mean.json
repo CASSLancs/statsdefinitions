@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/mean.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/mean.json",
   "name": "Mean",
   "disambiguatingDescription": "x̄ = Sum of all values, divided by n.",
   "description": "The mean is the sum of all value, divided by the number of instances. This is useful for distributions without outliers (which could massively bias the mean towards them, making it less useful as the mean may represent the outlier more than the rest of the values)."

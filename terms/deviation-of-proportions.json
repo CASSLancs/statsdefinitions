@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/deviation-of-proportions.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/deviation-of-proportions.json",
   "name": "Deviation of Proportions",
   "disambiguatingDescription": "Measure proposed by Gries (2008) which compares the expected distribution of a word or phrase in corpus parts with the actual distribution.",
   "description": "Measure proposed by Gries (2008) which compares the expected distribution of a word or phrase in corpus parts with the actual distribution. It is equal to the sum of the absolute values of (observed - expected proportions) divided by 2.",

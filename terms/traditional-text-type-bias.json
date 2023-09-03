@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/traditional-text-type-bias.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/traditional-text-type-bias.json",
   "name": "Traditional text type bias",
   "disambiguatingDescription": "Specific case of non-coverage bias where when selecting a sampling frame we are predisposed to see text types which have traditionally been included in language corpora as more salient.",
   "description": "Specific case of non-coverage bias where when selecting a sampling frame we are predisposed to see text types which have traditionally been included in language corpora as more salient."

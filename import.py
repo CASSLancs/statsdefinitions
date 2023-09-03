@@ -210,7 +210,7 @@ for defin in definitions.split("\n"):
     newObj = {
       "@context": "http://schema.org/",
       "@type": "DefinedTerm",
-      "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/"+filename,
+      "identifier": "https://casslancs.github.io/statsdefinitions/terms/"+filename,
       "name": word,
       "disambiguatingDescription": definition.split(".")[0]+".",
       "description": definition

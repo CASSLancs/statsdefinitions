@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/contingency-tables.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/contingency-tables.json",
   "name": "Contingency tables",
   "disambiguatingDescription": "Show all possible combinations of word co-occurrence.",
   "description": "Show all possible combinations of word co-occurrence."

@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/homoscedasticity.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/homoscedasticity.json",
   "name": "Homoscedasticity",
   "disambiguatingDescription": "Technical term for the equality of variances, i.",
   "description": "Technical term for the equality of variances, i.e. the amount of variation in two groups we want to compare."

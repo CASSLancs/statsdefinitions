@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/walds-z.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/walds-z.json",
   "name": "Wald's z",
   "disambiguatingDescription": "Significance statistic computed by dividing the estimate with its standard error.",
   "description": "Significance statistic computed by dividing the estimate with its standard error."

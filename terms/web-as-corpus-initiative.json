@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/web-as-corpus-initiative.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/web-as-corpus-initiative.json",
   "name": "Web as corpus initiative",
   "disambiguatingDescription": "Is based on the observation that large quantities of interesting linguistic material have become available online, and by crawling the web we can build corpora that are larger than ever before.",
   "description": "Is based on the observation that large quantities of interesting linguistic material have become available online, and by crawling the web we can build corpora that are larger than ever before."

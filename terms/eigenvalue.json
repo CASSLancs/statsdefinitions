@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/eigenvalue.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/eigenvalue.json",
   "name": "Eigenvalue",
   "disambiguatingDescription": "Measure of how much variation in the data a factor explains- the larger the value the better.",
   "description": "Measure of how much variation in the data a factor explains- the larger the value the better."

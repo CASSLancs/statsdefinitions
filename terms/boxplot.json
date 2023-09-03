@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/boxplot.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/boxplot.json",
   "name": "Boxplot",
   "disambiguatingDescription": "Type of graph which shows the distribution of data as well as extreme values.",
   "description": "Type of graph which shows the distribution of data as well as extreme values. The inside of the box represents the interquartile range and the thick horizontal line in the box represents the median. The 'whiskers' above and below the box show the minimum and maximum values excluding outliers which are displayed outside the scope of the 'whiskers' as separate data points."

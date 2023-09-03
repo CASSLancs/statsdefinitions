@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/inter-rater-agreement.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/inter-rater-agreement.json",
   "name": "Inter-rater agreement",
   "disambiguatingDescription": "Estimate of how reliable and consistent a coding is.",
   "description": "Estimate of how reliable and consistent a coding is."

@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/the-grand-mean.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/the-grand-mean.json",
   "name": "The grand mean",
   "disambiguatingDescription": "Is the mean for the whole corpus.",
   "description": "Is the mean for the whole corpus."

@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/diachronic-or-longitudinal-study.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/diachronic-or-longitudinal-study.json",
   "name": "Diachronic or longitudinal study",
   "disambiguatingDescription": "Study which involves time as a variable.",
   "description": "Study which involves time as a variable."

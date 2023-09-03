@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/lemma.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/lemma.json",
   "name": "Lemma",
   "disambiguatingDescription": "Group of all inflectional forms relating to one stem that belong to the same word class (Ku\u010dera & Francis 1967: 1).",
   "description": "Group of all inflectional forms relating to one stem that belong to the same word class (Ku\u010dera & Francis 1967: 1)"

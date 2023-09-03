@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/hierarchical-tree-plot.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/hierarchical-tree-plot.json",
   "name": "Hierarchical tree plot",
   "disambiguatingDescription": "Can display the results of a cluster procedure, showing the individual steps (clusters) as smaller branches gradually converging into one large cluster.",
   "description": "Can display the results of a cluster procedure, showing the individual steps (clusters) as smaller branches gradually converging into one large cluster.",

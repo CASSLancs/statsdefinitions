@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/legal-consideration-bias.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/legal-consideration-bias.json",
   "name": "Legal consideration bias",
   "disambiguatingDescription": "Is when many texts are selected because copyright does not apply.",
   "description": "Is when many texts are selected because copyright does not apply."

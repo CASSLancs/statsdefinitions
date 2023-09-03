@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/sample-standard-deviation.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/sample-standard-deviation.json",
   "name": "Sample standard deviation",
   "disambiguatingDescription": "Is calculated in almost the same way as standard deviation, however the sum of squared distances is divided not by the total number of corpus parts but by the total number of corpus parts minus 1.",
   "description": "Is calculated in almost the same way as standard deviation, however the sum of squared distances is divided not by the total number of corpus parts but by the total number of corpus parts minus 1."

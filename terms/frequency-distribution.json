@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/frequency-dsitribution.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/frequency-dsitribution.json",
   "name": "Frequency Distribution",
   "disambiguatingDescription": "Overview about the values a variable takes.",
   "description": "Provides information about the values or frequencies a variable takes. The normal distribution is a sort of benchmark, as it is the most common, although most linguistic data is positively skewed (i.e. to the left). The shape of the distribution provides an overview of the data and is crucial in identifying appropriate statistical techniques and assumptions taken within procedures."

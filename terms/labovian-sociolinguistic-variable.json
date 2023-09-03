@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/labovian-sociolinguistic-variable.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/labovian-sociolinguistic-variable.json",
   "name": "Labovian sociolinguistic variable",
   "disambiguatingDescription": "Is defined as 'different ways of saying the same thing' (Labov 2010: 368).",
   "description": "Is defined as 'different ways of saying the same thing' (Labov 2010: 368)."

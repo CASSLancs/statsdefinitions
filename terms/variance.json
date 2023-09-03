@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/variance.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/variance.json",
   "name": "Variance",
   "disambiguatingDescription": "Is the sum of squared distances of individual values from the group mean divided by the degrees of freedom.",
   "description": "Is the sum of squared distances of individual values from the group mean divided by the degrees of freedom. It is the squared version of sample standard deviation."

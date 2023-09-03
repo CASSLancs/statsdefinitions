@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/anova.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/anova.json",
   "name": "ANOVA",
   "alternateName": "Analysis of Variance",
   "disambiguatingDescription": "A type of statistical test for comparing means.",

@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/mosaic-plot.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/mosaic-plot.json",
   "name": "Mosaic plot",
   "disambiguatingDescription": "Turns the frequency information into the size of the areas in the plot.",
   "description": "Turns the frequency information into the size of the areas in the plot. It also displays the proportions of the categories."

@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/statistics.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/statistics.json",
   "name": "Statistics",
   "disambiguatingDescription": "A discipline that makes sense of quantitative data.",
   "description": "Statistics is a discipline that helps make sense of quantitative data. McEnery & Hardie describe it as a \"science of collecting and interpreting [quantifiable] data\" (2011, Corpus linguistics: method, theory and practice.)"

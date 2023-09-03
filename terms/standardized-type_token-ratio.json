@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/standardized-type_token-ratio.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/standardized-type_token-ratio.json",
   "name": "Standardized type/token ratio",
   "disambiguatingDescription": "Measure otherwise known as mean segmental type/token ratio.",
   "description": "Measure otherwise known as mean segmental type/token ratio. It is calculated by dividing a text into standard sized segments (e.g. 1000 words), calculating the TTR for each segment and then taking the mean value of the TTRs.",

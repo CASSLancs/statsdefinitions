@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/representative.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/representative.json",
   "name": "Representative",
   "disambiguatingDescription": "Descriptor of a sample when it has similar characteristics to the population it is drawn from.",
   "description": "Descriptor of a sample when it has similar characteristics to the population it is drawn from."

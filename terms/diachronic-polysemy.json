@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/diachronic-polysemy.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/diachronic-polysemy.json",
   "name": "Diachronic polysemy",
   "disambiguatingDescription": "Phenomenon where the same linguistic form often changes meaning over time.",
   "description": "Phenomenon where the same linguistic form often changes meaning over time."

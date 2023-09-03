@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/population.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/population.json",
   "name": "Population",
   "disambiguatingDescription": "Is all language of interest to the researcher.",
   "description": "Is all language of interest to the researcher."

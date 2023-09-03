@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/lexico-grammatical-frame_envelope-of-variation_variable-context.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/lexico-grammatical-frame_envelope-of-variation_variable-context.json",
   "name": "Lexico-grammatical frame/envelope of variation/variable context",
   "disambiguatingDescription": "Identifying all contexts in which the linguistic variable operates.",
   "description": "Identifying all contexts in which the linguistic variable operates."

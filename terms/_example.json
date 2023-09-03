@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/_example.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/_example.json",
   "name": "Example Definition",
   "disambiguatingDescription": "An example of a definition",
   "description": "This is an example of a definition in the statsdefinitions repo. It can be used to create your own definitions.",

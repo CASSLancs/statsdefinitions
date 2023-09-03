@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/negative-correlation.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/negative-correlation.json",
   "name": "Negative correlation",
   "disambiguatingDescription": "Is when one variable increases the other decreases.",
   "description": "Is when one variable increases the other decreases."

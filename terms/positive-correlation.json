@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/positive-correlation.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/positive-correlation.json",
   "name": "Positive correlation",
   "disambiguatingDescription": "Is when an increase in the values of the first variable also means an increase in the values of the second variable.",
   "description": "Is when an increase in the values of the first variable also means an increase in the values of the second variable."

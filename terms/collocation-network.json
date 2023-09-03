@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/collocation-network.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/collocation-network.json",
   "name": "Collocation network",
   "disambiguatingDescription": "Network of linked collocations that starts with an initial node (N1) around which a set of first-order collocates is identified.",
   "description": "Network of linked collocations that starts with an initial node (N1) around which a set of first-order collocates is identified. Any of these collocates can be considered a new node with a new set of collocates, and the process can be repeated multiple times to create an extensive network."

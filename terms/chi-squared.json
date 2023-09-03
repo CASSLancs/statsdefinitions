@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/chi-squared.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/chi-squared.json",
   "name": "Chi-squared",
   "disambiguatingDescription": "Test that can be used for statistical significance in cross-tabulation.",
   "description": "Test that can be used for statistical significance in cross-tabulation."

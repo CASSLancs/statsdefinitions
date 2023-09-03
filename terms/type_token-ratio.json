@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/type_token-ratio.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/type_token-ratio.json",
   "name": "Type/token ratio",
   "disambiguatingDescription": "Expresses the proportion of types relative to the proportion of tokens.",
   "description": "Expresses the proportion of types relative to the proportion of tokens. It is calculated by dividing the number of types in a text or corpus by the number of tokens.",

@@ -1,5 +1,5 @@
 
-SOURCE = "https://jackdunncodes.github.io/statsdefinitions"
+SOURCE = "https://casslancs.github.io/statsdefinitions"
 
 import sqlite3, sys, urllib.request
 localSqlitePath = sys.argv[1]

@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/odds.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/odds.json",
   "name": "Odds",
   "disambiguatingDescription": "Are a unit used to measure the effect of the predictors, and can be calculated by dividing the probability of the outcome by the probability of not the outcome.",
   "description": "Are a unit used to measure the effect of the predictors, and can be calculated by dividing the probability of the outcome by the probability of not the outcome."

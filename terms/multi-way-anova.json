@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/multi-way-anova.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/multi-way-anova.json",
   "name": "Multi-way ANOVA",
   "disambiguatingDescription": "Test that takes into account two or more explanatory variables at the same time as well as their interactions.",
   "description": "Test that takes into account two or more explanatory variables at the same time as well as their interactions.",

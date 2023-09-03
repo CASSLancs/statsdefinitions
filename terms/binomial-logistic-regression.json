@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/binomial-logistic-regression.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/binomial-logistic-regression.json",
   "name": "Binomial logistic regression",
   "disambiguatingDescription": "Logistic regression with an outcome variable with two categories.",
   "description": "Logistic regression with an outcome variable with two categories."

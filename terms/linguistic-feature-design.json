@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/linguistic-feature-design.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/linguistic-feature-design.json",
   "name": "Linguistic feature design",
   "disambiguatingDescription": "Type of research design which focuses on the linguistic feature as a single observation (case).",
   "description": "Type of research design which focuses on the linguistic feature as a single observation (case)."

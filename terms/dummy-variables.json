@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/dummy-variables.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/dummy-variables.json",
   "name": "Dummy variables",
   "disambiguatingDescription": "Are combinations of categorical predictors and their non-baseline values.",
   "description": "Are combinations of categorical predictors and their non-baseline values."

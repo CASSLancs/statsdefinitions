@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/corpus-of-interest.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/corpus-of-interest.json",
   "name": "Corpus of interest",
   "disambiguatingDescription": "Is compared with a baseline reference corpus using a statistical measure to identify words that are used either more or less often in one compared to the other.",
   "description": "Is compared with a baseline reference corpus using a statistical measure to identify words that are used either more or less often in one compared to the other."

@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "DefinedTerm",
-  "identifier": "https://jackdunncodes.github.io/statsdefinitions/terms/candlestick-plot.json",
+  "identifier": "https://casslancs.github.io/statsdefinitions/terms/candlestick-plot.json",
   "name": "Candlestick plot",
   "disambiguatingDescription": "Type of data visualization, where the development of a linguistic variable is summarized as a box and 'wicks' resembling a candlestick.",
   "description": "Type of data visualization, where the development of a linguistic variable is summarized as a box and 'wicks' resembling a candlestick. It is often used in financial reports."
